@@ -1,4 +1,4 @@
-# daily-xkcd
+# random-xkcd
 
 A Mastodon bot that uses Cloudflare workers and scheduled events to send a random xkcd comic
 
