@@ -1,0 +1,6 @@
+name = "random-xkcd"
+main = "src/index.ts"
+compatibility_date = "2023-01-19"
+
+[triggers]
+crons = ["0 0 * * *"]
